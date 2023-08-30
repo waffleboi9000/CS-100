@@ -1,0 +1,1 @@
+content = "<?xml version="1.0" encoding="UTF-8"?><user><name>admin</name><desc>First account created during the Windows installation.</desc><permissions>Full control of the files and local resources.</permissions><secret><key>p@$$w0rd</key><lastChanged>1/1/2020:12:05:00</lastChanged></secret></user>"
